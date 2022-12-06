@@ -55,4 +55,4 @@
 
 ### Conclusions:
 
-In the case of reviews for watches it can be seen that paid members are not showing a bias to giving 5 star ratings.  In fact they are harsher, with only 34% of reviewers giving 5 star in comparison to 59.5% by un-paid reviews. It should also be notes that the number of vine reviewers is less than 1 % of the total reviews so it could be argued that thi sample size is too small to draw a definative conclusion. 
+In the case of reviews for watches it can be seen that paid members are not showing a bias to giving 5 star ratings.  In fact they are harsher, with only 34% of reviewers giving 5 star in comparison to 59.5% by un-paid reviews. It should also be noted that the number of vine reviewers is less than 1 % of the total reviewers so it could be argued that this sample size is too small to draw a definative conclusion. 
